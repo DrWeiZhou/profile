@@ -2,5 +2,5 @@
 # Degrees
 ## Ph.D. of Computer Science
 ## Master of Computer Science...
-![myphoto](wei.JPG)
+![myphoto](wei.jpg)
 
